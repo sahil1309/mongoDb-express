@@ -1,0 +1,34 @@
+POST http://localhost:3600/add-new-post
+Content-Type: application/json
+
+
+
+{
+                "Student_name": "Sahil", 
+                "registration_number": 2090,
+                "Marks_Outof50": 32
+}
+
+{
+                "Student_name": "Grishma",
+                "registration_number": 2070,
+                "Marks_Outof50": 33
+}
+
+{
+                "Student_name": "Shashank",
+                "registration_number": 2157,
+                "Marks_Outof50": 35
+}
+
+{
+                "Student_name": "Yunas",
+                "registration_number": 3598,
+                "Marks_Outof50": 30
+}
+
+{
+                "Student_name": "Akshay",
+                "registration_number": 4545,
+                "Marks_Outof50":
+}
